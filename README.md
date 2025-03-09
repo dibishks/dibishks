@@ -14,6 +14,8 @@ I'm a **Technical Lead** with **11 years of experience** in software development
 - **Cloud & DevOps**: AWS, Kubernetes, Docker, CI/CD
 - **Software Architecture**: Multi-system landscape, Security, Authorization, Data Provisioning
 - **Performance Optimization & Troubleshooting**
+- **AI & Automation: AI Agents, Make.com, n8n, OpenAI API**
+- **No-Code Development: Webflow, AI-powered automation**
 
 ## 💼 Professional Experience
 
@@ -29,8 +31,8 @@ I'm a **Technical Lead** with **11 years of experience** in software development
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/dibeesh-ks-42345291/)
 - 🔗 [Twitter](https://x.com/SDibeesh83268)
-- Check my website 
-- 📧 dibeesh\@amt.in
+- 🔗 [Website](https://dibishks.github.io/db/)
+- 📧 dibishks_607@yahoo.co.in
 
 Feel free to check out my repositories and collaborate on exciting projects! 🚀
 
